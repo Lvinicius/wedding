@@ -1,3 +1,21 @@
+/* Ajustar cores do site */
+:root {
+    --bs-primary: #808000;
+}
+
+.text-primary{
+    color: #808000 !important;
+}
+
+.btn-primary{
+    background-color: #808000 !important;
+    border-color: #808000 !important;
+}
+
+.border-primary{
+    border-color:#808000 !important
+}
+
 
 /*** Spinner Start ***/
 #spinner {
